@@ -4,4 +4,4 @@
 
 > I am currently vibing on-
 
- [![Spotify](https://amlistening-to.vercel.app/api)](https://open.spotify.com/user/USER_NAME)
+ [![Spotify](https://amlistening-to.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
