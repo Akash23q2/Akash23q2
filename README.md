@@ -4,4 +4,4 @@
 
 > I am currently vibing on-
 
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tfp7y4a2d9onqyo0od5f6r4jb&count={2})
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tfp7y4a2d9onqyo0od5f6r4jb&count=3)
