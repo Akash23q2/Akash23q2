@@ -3,6 +3,7 @@
 - 18 yrs old, Indian student ✨
 - A newbie in Android development, Python, and web development 🐣
 - Currently learning c++ and reactjs 👀
+- funfact: @Akash23q2, @Thyakash are both owned by me
 
 # My achievements
 <img src="https://github-readme-stats.vercel.app/api?username=Akash23q2&show_icons=true"/>
