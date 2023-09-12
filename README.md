@@ -1,8 +1,6 @@
 # About me
-- 👋 Hi, I’m Akash
-- 18 yrs old, Indian student ✨
-- A newbie in Android development, Python, and web development 🐣
-- Currently learning c++ and reactjs 👀
+- 👋 Hi, I’m Akash 
+- 19 yrs old, Indian student ✨
 
 # My achievements
 <img src="https://github-readme-stats.vercel.app/api?username=Akash23q2&show_icons=true"/>
