@@ -2,10 +2,13 @@
 - 👋 Hi, I’m Akash 
 - 19 yrs old, Indian student ✨
 
-# Knows About
-- Android Development
+# Knows About\
+
+- Cpp,Python,Bash
+- Iot 
+- Web Development
 - Linux
-- Raspberry Pi
+
 
 # Languages I use
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash23q2"/>
