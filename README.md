@@ -5,7 +5,8 @@
 # Knows About
 
 - Cpp,Python,Bash
-- Iot 
+- Iot
+- Electronics
 - Web Development
 - Linux
 
