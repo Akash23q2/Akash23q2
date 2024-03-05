@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Akash 
 - 19 yrs old, Indian student ✨
 
-# Knows About\
+# Knows About
 
 - Cpp,Python,Bash
 - Iot 
